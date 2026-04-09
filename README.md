@@ -20,9 +20,7 @@
 
 ## The Problem
 
-Managed agent infrastructure exists. Anthropic ships it. OpenAI has Codex. Google has Jules.
-
-All closed. All single-vendor. All cloud-only.
+Managed agent infrastructure is here. But it's closed, single-vendor, and cloud-only.
 
 When your agent infrastructure is locked to one provider, your entire system becomes a pet tethered to one API, one pricing model, one uptime SLA. Today's best model will not be tomorrow's best model. The team that bets on one provider rewrites everything when the leaderboard shifts.
 
